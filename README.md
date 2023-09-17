@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yogeshBsht
 - 👀 I’m interested in solving problems using coding
-- 🌱 I’m currently learning flask
+- 🌱 I’m currently learning vertx
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me ybnsit@gmail.com
 
