@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yogeshBsht
+- 👋 Hi, I’m @yogesh
 - 👀 I’m interested in solving problems using coding
 - 🌱 I’m currently learning vertx
 - 💞️ I’m looking to collaborate on web development
